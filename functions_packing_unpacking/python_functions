@@ -1,0 +1,12 @@
+# team treehouse python functions
+# 9/10/2017
+
+def print_name():
+    print("Mike")
+
+def print_favorite_movie():
+    print("Holy Rollers")
+
+print_name()
+
+print_favorite_movie()
